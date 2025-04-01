@@ -172,6 +172,42 @@ I'm a dedicated Full Stack Developer specializing in web applications with a foc
   <img src="https://github-profile-trophy.vercel.app/?username=sanskarpan&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
+## Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanskarpan&theme=react-dark&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanskarpan&theme=minimal&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarpan&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
+  </picture>
+</div>
+
+## 💼 Professional Experience
+
+I specialize in developing **enterprise-grade web applications** with a focus on **scalability, performance, and DevOps integration**. My experience includes:
+
+- **Backend Development:**  
+  - Designing and implementing **RESTful APIs** and **microservices** 
+  - Ensuring **high performance, security, and scalability** in web applications  
+  - **Optimizing database queries** and **caching strategies** to enhance performance  
+
+- **Frontend Development:**  
+  - Developing **dynamic, accessible, and responsive UIs** 
+  - Implementing **state management solutions** and integrating **API-based data fetching**  
+
+- **Cloud & DevOps:**  
+  - **Deploying applications** with optimized configurations  
+  - Setting up **CI/CD pipelines** using **GitHub Actions** and **Docker**  
+  - Managing **server configurations** with **Nginx, Kubernetes, and container orchestration**  
+
+- **AI & Data Engineering:**  
+  - Implementing **NLP-based AI workflows** using **LangChain, FAISS, and LLMs**  
+  - **Building intelligent systems** with **Distributed CLoud based Microservices**  
+  - Performing **data processing and analysis** using **Pandas, Matplotlib, and Scikit-learn**  
+
+I thrive on **solving complex problems, optimizing workflows, and contributing to open-source projects.** 🚀
+
+
+
 ## 🌟 Development Workflow
 
 ```mermaid
