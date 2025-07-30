@@ -30,9 +30,9 @@
 ```typescript
 const sanskarPandey = {
   title: "Full Stack Developer & AI Enthusiast",
-  specialization: ["Web Development", "DevOps", "AI & ML"],
+  specialisation: ["Web Development", "DevOps", "AI & ML"],
   currentProjects: [
-    "Financial tracking website with PostgreSQL (Neon) and visualizations",
+    "Financial tracking website with PostgreSQL (Neon) and visualisations",
     "PDF-to-XML converter using NextJS & NestJS"
   ],
   lookingToCollaborateOn: [
@@ -40,7 +40,7 @@ const sanskarPandey = {
     "LangChain & RAG implementations for AI-powered assistants",
     "Deep Learning Projects"
   ],
-  funFact: "I'm juggling multiple degrees and placement prep while building full-stack projects 🚀"
+  funFact: "I'm doing multiple degrees while also building full-stack and AI native  projects 🚀"
 };
 ```
 
