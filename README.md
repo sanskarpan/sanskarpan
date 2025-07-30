@@ -40,7 +40,7 @@ const sanskarPandey = {
     "LangChain & RAG implementations for AI-powered assistants",
     "Deep Learning Projects"
   ],
-  funFact: "I'm doing multiple degrees while also building full-stack and AI native  projects 🚀"
+  funFact: "I'm doing multiple degrees while also building full-stack and AI native projects 🚀"
 };
 ```
 
