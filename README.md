@@ -29,7 +29,7 @@
 
 ```typescript
 const sanskarPandey = {
-  title: "Full Stack Developer & AI Enthusiast",
+  title: "Full Stack & AI Developer",
   specialisation: ["Web Development", "DevOps", "AI & ML"],
   currentProjects: [
     "Financial tracking website with PostgreSQL (Neon) and visualisations",
