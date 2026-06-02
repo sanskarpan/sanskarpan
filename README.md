@@ -1,78 +1,152 @@
-# Sanskar Pandey
+<div align="center">
 
-Backend and systems-focused software engineer building infrastructure-heavy products in Go, Python, TypeScript, and cloud-native stacks.
+<img src="./assets/profile-header.svg" alt="Sanskar Pandey - Backend, Platform, and Systems Engineering" width="100%" />
 
-My current engineering focus is senior-level execution: clearer architecture, stronger testing, operational runbooks, CI discipline, and public repositories that other engineers can understand, run, review, and extend.
+<br />
+<br />
 
-[LinkedIn](https://linkedin.com/in/sanskarpandey2004) | [X](https://x.com/sanskarpan) | [Email](mailto:sanskar.works.2004@gmail.com)
+I build infrastructure-heavy products across Go, Python, TypeScript, distributed systems, observability, storage, payments, and AI-assisted workflows.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanskarpandey2004-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskarpandey2004)
+[![X](https://img.shields.io/badge/X-@sanskarpan-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sanskarpan)
+[![Email](https://img.shields.io/badge/Email-sanskar.works-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskar.works.2004@gmail.com)
+
+</div>
 
 ---
 
-## Engineering Focus
+## Engineering Thesis
 
-- Distributed systems, storage engines, tracing, networking, and backend infrastructure.
-- Product-grade full-stack systems where the backend has real operational complexity.
-- Reliability primitives: idempotency, retries, backpressure, reconciliation, observability, failure recovery, and state-machine driven design.
-- AI-assisted products where the LLM layer is integrated into a real system instead of being the whole product.
-- Open-source maturity: documentation, issue hygiene, licenses, contribution paths, CI, tests, examples, and release discipline.
+I am building toward the kind of engineering work where product decisions, architecture, implementation, reliability, and operations are connected.
 
-The work I want to be judged on is not the number of repositories. It is whether a project has a clear problem, a defensible architecture, a working implementation, and enough operational evidence that another engineer can trust it.
+The strongest projects here are systems-oriented: payment flows with explicit state machines, tracing pipelines with sampling and metrics, storage and concurrency primitives, reliable webhook delivery, and AI products backed by real infrastructure.
+
+```text
+design the invariants -> build the system -> prove it with tests -> document how it fails
+```
 
 ---
 
 ## Flagship Work
 
-| Project | Domain | Why it matters |
-|---|---|---|
-| [Latexy](https://github.com/sanskarpan/Latexy) | AI product, full-stack systems | AI-powered LaTeX resume builder with FastAPI, Next.js, WebSockets, Celery, Redis, PostgreSQL, MinIO, pgvector, BYOK, billing controls, ATS analysis, and operational setup. |
-| [PayGate](https://github.com/sanskarpan/PayGate) | Payments infrastructure | Multi-tenant payment platform exploring state machines, double-entry ledgering, transactional outbox, saga orchestration, settlements, reconciliation, webhooks, and operator workflows. |
-| [http-server](https://github.com/sanskarpan/http-server) | Networking, Go systems | HTTP/1.1 server implementation with custom parser, router, response writer, static file serving, WebSocket support, fuzz/soak/benchmark validation, race testing, and release/operations docs. |
-| [distributed-tracing-system](https://github.com/sanskarpan/distributed-tracing-system) | Observability | Go collector and React UI for trace ingestion, sampling, RED metrics, service maps, trace comparison, SSE updates, load tests, Kubernetes manifests, and Helm packaging. |
-| [Webhook](https://github.com/sanskarpan/Webhook) | Reliable delivery systems | Webhook delivery service with FastAPI, PostgreSQL, Redis, Celery, retries, delivery logs, subscription filtering, metrics, Docker setup, and documented delivery behavior. |
-| [dht-system](https://github.com/sanskarpan/dht-system) | Distributed systems | Distributed hash table implementation with routing, node behavior, testing, Dockerized local workflows, and a growing frontend/ops surface. |
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/sanskarpan/Latexy">Latexy</a></h3>
+      <p>AI-powered LaTeX resume builder with FastAPI, Next.js, WebSockets, Celery, Redis, PostgreSQL, MinIO, pgvector, BYOK, billing controls, and ATS analysis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/sanskarpan/PayGate">PayGate</a></h3>
+      <p>Payment platform design around state machines, double-entry ledgering, transactional outbox, saga orchestration, settlements, reconciliation, and webhooks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+        <img src="https://img.shields.io/badge/Ledgering-2E7D32?style=flat-square" alt="Ledgering" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/sanskarpan/http-server">http-server</a></h3>
+      <p>Go HTTP/1.1 server with custom parser, router, response writer, static file serving, WebSocket support, fuzzing, soak baselines, and race testing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/HTTP%2F1.1-111111?style=flat-square" alt="HTTP/1.1" />
+        <img src="https://img.shields.io/badge/Fuzzing-7C3AED?style=flat-square" alt="Fuzzing" />
+        <img src="https://img.shields.io/badge/Race_Tests-B91C1C?style=flat-square" alt="Race tests" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/sanskarpan/distributed-tracing-system">distributed-tracing-system</a></h3>
+      <p>Go collector and React UI for trace ingestion, sampling, RED metrics, service maps, trace comparison, SSE updates, load tests, Kubernetes, and Helm.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
+        <img src="https://img.shields.io/badge/Observability-0F766E?style=flat-square" alt="Observability" />
+        <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+| Project | What it demonstrates |
+|---|---|
+| [Latexy](https://github.com/sanskarpan/Latexy) | Full-stack AI product with FastAPI, Next.js, WebSockets, Celery, Redis, PostgreSQL, MinIO, pgvector, BYOK, billing controls, ATS analysis, and operational setup. |
+| [PayGate](https://github.com/sanskarpan/PayGate) | Payment platform design around state machines, double-entry ledgering, transactional outbox, saga orchestration, settlements, reconciliation, webhooks, and operator workflows. |
+| [http-server](https://github.com/sanskarpan/http-server) | Go HTTP/1.1 server with custom parser, router, response writer, static file serving, WebSocket support, fuzz/soak/benchmark validation, race testing, and release docs. |
+| [distributed-tracing-system](https://github.com/sanskarpan/distributed-tracing-system) | Go collector and React UI for trace ingestion, sampling, RED metrics, service maps, trace comparison, SSE updates, load tests, Kubernetes manifests, and Helm packaging. |
+| [Webhook](https://github.com/sanskarpan/Webhook) | Reliable webhook delivery with FastAPI, PostgreSQL, Redis, Celery, retries, delivery logs, subscription filtering, metrics, Docker setup, and documented behavior. |
+| [dht-system](https://github.com/sanskarpan/dht-system) | Distributed hash table implementation with routing, node behavior, tests, Dockerized workflows, and an expanding frontend/ops surface. |
 
 ---
 
-## Systems And Backend Projects
+## Engineering Map
 
 | Area | Repositories |
 |---|---|
-| Storage and data structures | [lsm-tree-storage](https://github.com/sanskarpan/lsm-tree-storage), [btree-engine](https://github.com/sanskarpan/btree-engine), [fs-engine](https://github.com/sanskarpan/fs-engine), [time-series-metrics-db](https://github.com/sanskarpan/time-series-metrics-db) |
+| Storage engines and data structures | [lsm-tree-storage](https://github.com/sanskarpan/lsm-tree-storage), [btree-engine](https://github.com/sanskarpan/btree-engine), [fs-engine](https://github.com/sanskarpan/fs-engine), [time-series-metrics-db](https://github.com/sanskarpan/time-series-metrics-db) |
 | Concurrency and runtime primitives | [thread-pool](https://github.com/sanskarpan/thread-pool), [lockfree](https://github.com/sanskarpan/lockfree), [advanced-synchronization-primitives](https://github.com/sanskarpan/advanced-synchronization-primitives), [Deadlock-Detection-Recovery-System](https://github.com/sanskarpan/Deadlock-Detection-Recovery-System) |
 | Networking and protocols | [DNS-Resolver](https://github.com/sanskarpan/DNS-Resolver), [http-server](https://github.com/sanskarpan/http-server), [File-Share](https://github.com/sanskarpan/File-Share), [Gossip-Protocol](https://github.com/sanskarpan/Gossip-Protocol) |
-| Cloud and platform systems | [Kubernetes](https://github.com/sanskarpan/Kubernetes), [Kube-cred](https://github.com/sanskarpan/Kube-cred), [distributed-file-storage](https://github.com/sanskarpan/distributed-file-storage), [db-backup](https://github.com/sanskarpan/db-backup) |
+| Cloud, platform, and operations | [Kubernetes](https://github.com/sanskarpan/Kubernetes), [Kube-cred](https://github.com/sanskarpan/Kube-cred), [distributed-file-storage](https://github.com/sanskarpan/distributed-file-storage), [db-backup](https://github.com/sanskarpan/db-backup) |
 | AI and data products | [Latexy](https://github.com/sanskarpan/Latexy), [GeoVision](https://github.com/sanskarpan/GeoVision), [ViralGenAD](https://github.com/sanskarpan/ViralGenAD), [Gemini-PDF-ChatBot](https://github.com/sanskarpan/Gemini-PDF-ChatBot) |
 
 ---
 
-## How I Build
+## Maintainer Standard I Am Working Toward
 
-I try to make projects legible at three levels:
+```text
+README that explains the system
+LICENSE and contribution path
+CI for build, lint, test, and security checks
+Tests for invariants and failure behavior
+Docker or Makefile based local setup
+Architecture docs, runbooks, and documented limitations
+Issues and releases that make the project usable by other engineers
+```
 
-1. **Product behavior**: what problem the system solves and how a user or operator works with it.
-2. **Engineering design**: service boundaries, data model, state transitions, failure modes, and integration contracts.
-3. **Operational proof**: tests, CI, local reproduction, logs, metrics, runbooks, validation baselines, and documented limitations.
-
-The standard I am working toward for public repositories:
-
-- `README.md` that explains the problem, architecture, setup, verification, and limitations.
-- `LICENSE`, contribution guidance, issue templates, and clear project status.
-- CI for build, lint, test, security checks, and dependency updates where appropriate.
-- Tests that cover core invariants, not just happy-path request handling.
-- Docker or Makefile-based local setup so reviewers can run the project quickly.
-- Architecture docs and runbooks for systems where failure behavior matters.
+This is the area I am deliberately improving: moving the best repositories from strong personal builds into credible open-source projects.
 
 ---
 
-## Technical Stack
+## Stack
 
-- **Languages:** Go, Python, TypeScript, JavaScript, C++, SQL
-- **Backend:** FastAPI, Flask, Node.js, Express, REST APIs, WebSockets, gRPC-style service design
-- **Systems:** concurrency, networking, storage engines, distributed coordination, observability, queues, retries, idempotency
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+- **Backend:** FastAPI, Flask, Node.js, Express, REST APIs, WebSockets, service boundaries
+- **Systems:** concurrency, networking, storage engines, distributed coordination, queues, retries, idempotency
 - **Data:** PostgreSQL, Redis, MongoDB, MySQL, SQLite, pgvector, object storage
-- **Cloud and DevOps:** Docker, Docker Compose, Kubernetes, Helm, GitHub Actions, Linux, Nginx, CI/CD workflows
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, dashboards, operator tools
-- **AI:** LLM application architecture, RAG workflows, embeddings, document processing, semantic search, evaluation-oriented product flows
+- **Cloud and DevOps:** Docker, Docker Compose, Kubernetes, Helm, GitHub Actions, Linux, Nginx
+- **AI:** LLM application architecture, RAG workflows, embeddings, document processing, semantic search
+
+---
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanskarpan&theme=github-dark&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanskarpan&theme=github-light&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarpan&theme=github-dark&hide_border=true&area=true" alt="Sanskar Pandey GitHub contribution graph" />
+</picture>
 
 ---
 
@@ -82,19 +156,7 @@ The standard I am working toward for public repositories:
 - Turning strong project ideas into maintained open-source projects with clear contribution paths.
 - Improving test depth, release discipline, and security hygiene across public repos.
 - Building more backend and infrastructure projects that demonstrate senior engineering judgment through code, docs, and operations.
-- Contributing outside my own repositories where I can provide useful fixes, tests, documentation, or systems-level review.
-
----
-
-## GitHub Signal
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskarpan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarpan&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
-</p>
+- Contributing outside my own repositories through fixes, tests, documentation, and systems-level review.
 
 ---
 
@@ -102,6 +164,4 @@ The standard I am working toward for public repositories:
 
 I am open to senior backend, platform, infrastructure, and AI-product engineering conversations where the work requires ownership across design, implementation, reliability, and maintainability.
 
-- LinkedIn: [linkedin.com/in/sanskarpandey2004](https://linkedin.com/in/sanskarpandey2004)
-- GitHub: [github.com/sanskarpan](https://github.com/sanskarpan)
-- Email: [sanskar.works.2004@gmail.com](mailto:sanskar.works.2004@gmail.com)
+[LinkedIn](https://linkedin.com/in/sanskarpandey2004) | [GitHub](https://github.com/sanskarpan) | [Email](mailto:sanskar.works.2004@gmail.com)
