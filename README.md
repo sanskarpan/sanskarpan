@@ -1,167 +1,257 @@
+# Sanskar Pandey
+
 <div align="center">
+  <h3>Full Stack Developer & AI Enthusiast</h3>
+  
+  <img src="https://img.shields.io/github/followers/sanskarpan?style=for-the-badge&logo=github&logoColor=white&labelColor=0366d6&color=0366d6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/sanskarpan?style=for-the-badge&logo=github&logoColor=white&labelColor=0366d6&color=0366d6" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=sanskarpan&style=for-the-badge&color=0366d6" alt="Profile Views" />
+   <img src="https://img.shields.io/github/last-commit/sanskarpan/sanskarpan?style=for-the-badge&logo=github&logoColor=white&labelColor=0366d6&color=0366d6" alt="Last commit" />
 
-<img src="./assets/profile-header.svg" alt="Sanskar Pandey - Backend, Platform, and Systems Engineering" width="100%" />
+</div>
 
-<br />
-<br />
+<div align="center">
+  <h4><i>Transforming complexity into scalable innovation with robust Software development and agile methodologies.</i></h4>
+</div>
 
-I build infrastructure-heavy products across Go, Python, TypeScript, distributed systems, observability, storage, payments, and AI-assisted workflows.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanskarpandey2004-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskarpandey2004)
-[![X](https://img.shields.io/badge/X-@sanskarpan-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sanskarpan)
-[![Email](https://img.shields.io/badge/Email-sanskar.works-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskar.works.2004@gmail.com)
-
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskarpandey2004) 
+  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanskarpan) 
+  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanskar.works.2004@gmail.com)
+  <!-- [![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/sanskarpandey2004) -->
+  
 </div>
 
 ---
 
-## Engineering Thesis
+## 💫 Professional Summary
 
-I am building toward the kind of engineering work where product decisions, architecture, implementation, reliability, and operations are connected.
-
-The strongest projects here are systems-oriented: payment flows with explicit state machines, tracing pipelines with sampling and metrics, storage and concurrency primitives, reliable webhook delivery, and AI products backed by real infrastructure.
-
-```text
-design the invariants -> build the system -> prove it with tests -> document how it fails
+```typescript
+const sanskarPandey = {
+  title: "Full Stack & AI Developer",
+  specialisation: ["Web Development", "DevOps", "AI & ML"],
+  currentProjects: [
+    "Financial tracking website with PostgreSQL (Neon) and visualisations",
+    "PDF-to-XML converter using NextJS & NestJS"
+  ],
+  lookingToCollaborateOn: [
+    "Open-source projects related to AI, DevOps, or backend development",
+    "LangChain & RAG implementations for AI-powered assistants",
+    "Deep Learning Projects"
+  ],
+  funFact: "I'm doing multiple degrees while also building full-stack and AI native projects 🚀"
+};
 ```
+
+I'm a dedicated Full Stack Developer specializing in web applications with a focus on AI integration. Passionate about building scalable, efficient solutions with modern technologies. Currently balancing academic pursuits with hands-on project development and open source contributions.
 
 ---
 
-## Flagship Work
+## 🌐 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></td>
+      <td><b>Full Stack Development</b>: Building robust web applications with modern frameworks</td>
+    </tr>
+    <tr>
+      <td align="center"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></td>
+      <td><b>DevOps</b>: Implementing CI/CD pipelines and container orchestration</td>
+    </tr>
+    <tr>
+      <td align="center"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></td>
+      <td><b>AI & ML</b>: Developing machine learning models and AI-powered applications</td>
+    </tr>
+    <tr>
+      <td align="center"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></td>
+      <td><b>Open Source</b>: Contributing to meaningful open source projects</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 💻 Technical Expertise
 
 <table>
   <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/sanskarpan/Latexy">Latexy</a></h3>
-      <p>AI-powered LaTeX resume builder with FastAPI, Next.js, WebSockets, Celery, Redis, PostgreSQL, MinIO, pgvector, BYOK, billing controls, and ATS analysis.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-      </p>
+    <td valign="top" width="50%">
+      <h3>Languages</h3>
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/sanskarpan/PayGate">PayGate</a></h3>
-      <p>Payment platform design around state machines, double-entry ledgering, transactional outbox, saga orchestration, settlements, reconciliation, and webhooks.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-        <img src="https://img.shields.io/badge/Ledgering-2E7D32?style=flat-square" alt="Ledgering" />
-      </p>
+    <td valign="top" width="50%">
+      <h3>Frontend Development</h3>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+      <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/sanskarpan/http-server">http-server</a></h3>
-      <p>Go HTTP/1.1 server with custom parser, router, response writer, static file serving, WebSocket support, fuzzing, soak baselines, and race testing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/HTTP%2F1.1-111111?style=flat-square" alt="HTTP/1.1" />
-        <img src="https://img.shields.io/badge/Fuzzing-7C3AED?style=flat-square" alt="Fuzzing" />
-        <img src="https://img.shields.io/badge/Race_Tests-B91C1C?style=flat-square" alt="Race tests" />
-      </p>
+    <td valign="top" width="50%">
+      <h3>Backend Development</h3>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+      <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io" />
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/sanskarpan/distributed-tracing-system">distributed-tracing-system</a></h3>
-      <p>Go collector and React UI for trace ingestion, sampling, RED metrics, service maps, trace comparison, SSE updates, load tests, Kubernetes, and Helm.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
-        <img src="https://img.shields.io/badge/Observability-0F766E?style=flat-square" alt="Observability" />
-        <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
-      </p>
+    <td valign="top" width="50%">
+      <h3>Database & Cloud</h3>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>DevOps & Tools</h3>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>AI & ML</h3>
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="mlflow" />
     </td>
   </tr>
 </table>
 
-| Project | What it demonstrates |
-|---|---|
-| [Latexy](https://github.com/sanskarpan/Latexy) | Full-stack AI product with FastAPI, Next.js, WebSockets, Celery, Redis, PostgreSQL, MinIO, pgvector, BYOK, billing controls, ATS analysis, and operational setup. |
-| [PayGate](https://github.com/sanskarpan/PayGate) | Payment platform design around state machines, double-entry ledgering, transactional outbox, saga orchestration, settlements, reconciliation, webhooks, and operator workflows. |
-| [http-server](https://github.com/sanskarpan/http-server) | Go HTTP/1.1 server with custom parser, router, response writer, static file serving, WebSocket support, fuzz/soak/benchmark validation, race testing, and release docs. |
-| [distributed-tracing-system](https://github.com/sanskarpan/distributed-tracing-system) | Go collector and React UI for trace ingestion, sampling, RED metrics, service maps, trace comparison, SSE updates, load tests, Kubernetes manifests, and Helm packaging. |
-| [Webhook](https://github.com/sanskarpan/Webhook) | Reliable webhook delivery with FastAPI, PostgreSQL, Redis, Celery, retries, delivery logs, subscription filtering, metrics, Docker setup, and documented behavior. |
-| [dht-system](https://github.com/sanskarpan/dht-system) | Distributed hash table implementation with routing, node behavior, tests, Dockerized workflows, and an expanding frontend/ops surface. |
-
 ---
 
-## Engineering Map
+## 📊 GitHub Statistics
 
-| Area | Repositories |
-|---|---|
-| Storage engines and data structures | [lsm-tree-storage](https://github.com/sanskarpan/lsm-tree-storage), [btree-engine](https://github.com/sanskarpan/btree-engine), [fs-engine](https://github.com/sanskarpan/fs-engine), [time-series-metrics-db](https://github.com/sanskarpan/time-series-metrics-db) |
-| Concurrency and runtime primitives | [thread-pool](https://github.com/sanskarpan/thread-pool), [lockfree](https://github.com/sanskarpan/lockfree), [advanced-synchronization-primitives](https://github.com/sanskarpan/advanced-synchronization-primitives), [Deadlock-Detection-Recovery-System](https://github.com/sanskarpan/Deadlock-Detection-Recovery-System) |
-| Networking and protocols | [DNS-Resolver](https://github.com/sanskarpan/DNS-Resolver), [http-server](https://github.com/sanskarpan/http-server), [File-Share](https://github.com/sanskarpan/File-Share), [Gossip-Protocol](https://github.com/sanskarpan/Gossip-Protocol) |
-| Cloud, platform, and operations | [Kubernetes](https://github.com/sanskarpan/Kubernetes), [Kube-cred](https://github.com/sanskarpan/Kube-cred), [distributed-file-storage](https://github.com/sanskarpan/distributed-file-storage), [db-backup](https://github.com/sanskarpan/db-backup) |
-| AI and data products | [Latexy](https://github.com/sanskarpan/Latexy), [GeoVision](https://github.com/sanskarpan/GeoVision), [ViralGenAD](https://github.com/sanskarpan/ViralGenAD), [Gemini-PDF-ChatBot](https://github.com/sanskarpan/Gemini-PDF-ChatBot) |
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sanskarpan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=sanskarpan&theme=dark&hide_border=false" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarpan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
----
-
-## Maintainer Standard I Am Working Toward
-
-```text
-README that explains the system
-LICENSE and contribution path
-CI for build, lint, test, and security checks
-Tests for invariants and failure behavior
-Docker or Makefile based local setup
-Architecture docs, runbooks, and documented limitations
-Issues and releases that make the project usable by other engineers
-```
-
-This is the area I am deliberately improving: moving the best repositories from strong personal builds into credible open-source projects.
-
----
-
-## Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-- **Backend:** FastAPI, Flask, Node.js, Express, REST APIs, WebSockets, service boundaries
-- **Systems:** concurrency, networking, storage engines, distributed coordination, queues, retries, idempotency
-- **Data:** PostgreSQL, Redis, MongoDB, MySQL, SQLite, pgvector, object storage
-- **Cloud and DevOps:** Docker, Docker Compose, Kubernetes, Helm, GitHub Actions, Linux, Nginx
-- **AI:** LLM application architecture, RAG workflows, embeddings, document processing, semantic search
-
----
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanskarpan&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ## Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanskarpan&theme=react-dark&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanskarpan&theme=minimal&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarpan&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanskarpan&theme=github-dark&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanskarpan&theme=github-light&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarpan&theme=github-dark&hide_border=true&area=true" alt="Sanskar Pandey GitHub contribution graph" />
-</picture>
+## 💼 Professional Experience
+
+I specialize in developing **enterprise-grade web applications** with a focus on **scalability, performance, and DevOps integration**. My experience includes:
+
+- **Backend Development:**  
+  - Designing and implementing **RESTful APIs** and **microservices** 
+  - Ensuring **high performance, security, and scalability** in web applications  
+  - **Optimizing database queries** and **caching strategies** to enhance performance  
+
+- **Frontend Development:**  
+  - Developing **dynamic, accessible, and responsive UIs** 
+  - Implementing **state management solutions** and integrating **API-based data fetching**  
+
+- **Cloud & DevOps:**  
+  - **Deploying applications** with optimized configurations  
+  - Setting up **CI/CD pipelines** using **GitHub Actions** and **Docker**  
+  - Managing **server configurations** with **Nginx, Kubernetes, and container orchestration**  
+
+- **AI & Data Engineering:**  
+  - Implementing **NLP-based AI workflows** using **LangChain, FAISS, and LLMs**  
+  - **Building intelligent systems** with **Distributed CLoud based Microservices**  
+  - Performing **data processing and analysis** using **Pandas, Matplotlib, and Scikit-learn**  
+
+I thrive on **solving complex problems, optimizing workflows, and contributing to open-source projects.** 🚀
+
+
+
+## 🌟 Development Workflow
+
+```mermaid
+graph TD
+    A[Plan & Research] -->|Requirements Gathering| B[Design Architecture]
+    B -->|Draft Solution| C[Develop MVP]
+    C -->|Implement Features| D[Testing & QA]
+    D -->|Bug Fixes| E{Production Ready?}
+    E -->|Yes| F[Deploy]
+    E -->|No| C
+    F -->|Monitor| G[Maintenance]
+    G -->|New Features| A
+```
+
+## 🔝 Top Contributed Repositories
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sanskarpan&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</div>
+
+## 💡 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 
 ---
 
-## Current Priorities
+## 📫 Let's Connect
 
-- Curating public GitHub repositories so the strongest work is easier to evaluate.
-- Turning strong project ideas into maintained open-source projects with clear contribution paths.
-- Improving test depth, release discipline, and security hygiene across public repos.
-- Building more backend and infrastructure projects that demonstrate senior engineering judgment through code, docs, and operations.
-- Contributing outside my own repositories through fixes, tests, documentation, and systems-level review.
+<div align="center">
+  <a href="https://linkedin.com/in/sanskarpandey2004">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/sanskarpan">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.leetcode.com/sanskarpandey2004">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
+  </a>
+  <a href="mailto:sanskar.works.2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
----
+<div align="center">
+  <h4>Let's collaborate on something innovative! 🚀</h4>
 
-## Contact
-
-I am open to senior backend, platform, infrastructure, and AI-product engineering conversations where the work requires ownership across design, implementation, reliability, and maintainability.
-
-[LinkedIn](https://linkedin.com/in/sanskarpandey2004) | [GitHub](https://github.com/sanskarpan) | [Email](mailto:sanskar.works.2004@gmail.com)
+</div>
