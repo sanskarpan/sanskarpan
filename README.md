@@ -1,7 +1,7 @@
 # Sanskar Pandey
 
 <div align="center">
-  <h3>Full Stack Developer & AI Enthusiast</h3>
+  <h3>Full Stack,AI & Infrastructure Engineer</h3>
   
   <img src="https://img.shields.io/github/followers/sanskarpan?style=for-the-badge&logo=github&logoColor=white&labelColor=0366d6&color=0366d6" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/sanskarpan?style=for-the-badge&logo=github&logoColor=white&labelColor=0366d6&color=0366d6" alt="GitHub stars" />
@@ -29,7 +29,7 @@
 
 ```typescript
 const sanskarPandey = {
-  title: "AI Backend & Infrastructure Engineer",
+  title: "Full Stack,AI & Infrastructure Engineer",
   specialisation: [
     "AI Systems",
     "Backend Engineering",
