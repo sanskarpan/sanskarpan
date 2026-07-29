@@ -29,18 +29,26 @@
 
 ```typescript
 const sanskarPandey = {
-  title: "Full Stack & AI Developer",
-  specialisation: ["Web Development", "DevOps", "AI & ML"],
+  title: "AI Backend & Infrastructure Engineer",
+  specialisation: [
+    "AI Systems",
+    "Backend Engineering",
+    "Distributed Systems",
+    "LLM Infrastructure"
+  ],
   currentProjects: [
-    "Financial tracking website with PostgreSQL (Neon) and visualisations",
-    "PDF-to-XML converter using NextJS & NestJS"
+    "High-performance AI agents",
+    "LLM inference & evaluation systems",
+    "Workflow automation platforms",
+    "Scalable backend infrastructure"
   ],
   lookingToCollaborateOn: [
-    "Open-source projects related to AI, DevOps, or backend development",
-    "LangChain & RAG implementations for AI-powered assistants",
-    "Deep Learning Projects"
-  ],
-  funFact: "I'm doing multiple degrees while also building full-stack and AI native projects 🚀"
+    "AI infrastructure & inference optimization",
+    "Open-source developer tools",
+    "Agentic AI & multi-agent systems",
+    "RAG, MCP & context engineering",
+    "Distributed systems & platform engineering"
+  ]
 };
 ```
 
